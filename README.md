@@ -1,3 +1,3 @@
 # Java2-Game
 
-Materials for VWCC Java2 Game-Final.
+Coursework for VWCC Java2 Game-Final.
